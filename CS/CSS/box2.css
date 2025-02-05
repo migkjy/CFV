@@ -1,0 +1,33 @@
+td {font-family: "µ¸¿ò", "Arial"; font-size: 12px; color: #000000;}
+
+.blue {
+	font-family: "µ¸¿ò", "Arial";
+	font-size: 12px;
+	color: #204880;
+	font-weight: bold;
+}
+.gray {font-family: "µ¸¿ò", "Arial"; font-size: 12px; color: #999999;}
+.title {font-family: "µ¸¿ò", "Arial"; font-size: 15px; font-weight: bold; color: #FFFFFF;}
+.titleblack {font-family: "µ¸¿ò", "Arial"; font-size: 15px; font-weight: bold; color: #000000;}
+.titleyell {font-family: "µ¸¿ò", "Arial"; font-size: 15px; font-weight: bold; color: #FFFF00;}
+
+.scroll {scrollbar-face-color: #EFEFEF; 
+scrollbar-shadow-color: #7F7F7F; 
+scrollbar-highlight-color: #ffffff; 
+scrollbar-3dlight-color: #EFEFEF; 
+scrollbar-darkshadow-color: #ffffff; 
+scrollbar-track-color: #ffffff; 
+scrollbar-arrow-color: #ffffff;
+width: 235px; border:solid 1px; border-color:7F9DB9; font-family: "µ¸¿ò", "Arial"; font-size: 12px; color: #000000;}
+.box {width:140px; border:solid 1px; border-color:7F9DB9; heigth:17px; font-family: "µ¸¿ò", "Arial"; font-size: 12px; color: #000000;}
+.sbox {width: 30px; height: 17px; border:solid 1px; border-color:7F9DB9; font-family: "µ¸¿ò", "Arial"; font-size: 12px; color: #000000;}
+.boxg {
+	width:173px;
+	border:solid 1px;
+	heigth:17px;
+	font-family: "µ¸¿ò", "Arial";
+	font-size: 12px;
+	color: #000000;
+	background-color: #f1f2f2;
+
+}

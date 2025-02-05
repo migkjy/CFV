@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /m_admin/
+Disallow: /AGENT/
+Disallow: /INTRANET/

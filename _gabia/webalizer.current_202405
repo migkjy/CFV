@@ -1,0 +1,2220 @@
+# Webalizer V2.20-01 Incremental Data - 05/31/2024 22:41:24
+2024 5 31 22 41 24
+4411 3888 316 410 66 79 360741964 634 248 0
+16 3 596 1 31
+81 27 529119 13 11 7
+257 243 26976614 11 21 12
+91 85 8918861 7 11 7
+9 3 29137 3 6 3
+69 62 613917 12 58 6
+9 5 40718 7 7 5
+364 350 39955062 11 14 7
+769 650 56870884 12 97 13
+253 224 22760627 6 23 6
+25 22 275851 6 5 3
+11 7 52323 7 9 5
+114 107 17301114 7 13 5
+296 281 31341568 38 25 17
+11 9 657313 9 5 4
+51 46 3592868 38 17 16
+38 36 730007 19 6 5
+45 38 639978 7 8 5
+31 17 145290 16 21 11
+18 12 291278 12 10 7
+10 4 50091 5 7 4
+27 23 577403 16 5 3
+142 117 9417673 6 29 4
+212 168 14759914 9 31 9
+77 76 11138865 2 1 1
+123 106 3050077 21 28 10
+129 114 6450095 26 23 9
+336 306 27459997 17 27 12
+593 556 54244851 22 77 20
+106 95 12042688 26 15 13
+14 5 33646 11 11 10
+100 94 9794135 16 13 9
+46 40 846276 11
+12 8 969533 8
+106 89 3672853 23
+52 10 268125 31
+86 80 8916460 8
+78 66 5754762 15
+44 40 664736 10
+82 71 662283 64
+12 11 598106 7
+221 214 31591973 33
+1077 962 77550438 107
+553 507 46530276 47
+268 211 29634000 14
+412 348 24644678 47
+206 180 16558367 38
+371 337 36326196 38
+274 267 30349033 19
+236 226 25004367 14
+12 8 1825775 4
+68 55 3539585 42
+32 21 2681900 19
+28 23 698165 9
+31 20 216892 12
+104 94 11237185 14
+0
+0
+0
+3888
+0
+0
+0
+0
+0
+0
+0
+6
+159
+0
+22
+0
+0
+0
+0
+0
+0
+333
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+# -urls- 
+/mobile/css/import.css
+0 1 0 185 0 0
+/board/upload/tck/1002/20230201113824_m.jpg
+0 3 0 753630 0 0
+/images/good_img/3/000C01112_0001A.jpg
+0 2 0 159214 0 0
+/images/goods/tab01n.png
+0 1 0 2024 0 0
+/home/js/link.js
+0 41 0 74774 0 0
+/board/upload/tck/20230201(5).jpg
+0 3 0 1146834 0 0
+/admin/images/ico_ok.png
+0 6 0 9144 0 0
+/mobile/images/main/ptn_1_off.png
+0 1 0 3672 0 0
+/
+0 160 0 2594315 183 41
+/admin/goods/view_detail.asp
+0 3 0 51159 0 0
+/home/js/jquery.js
+0 33 0 30729 0 0
+/images/main/ico_blog.png
+0 28 0 59518 0 0
+/home/js/jquery-ui.min.css
+0 34 0 326867 0 0
+/admin/goods_tck/tck_view.asp
+0 11 0 57802 0 0
+/images/etc/training_2.png
+0 2 0 92270 0 0
+/images/logo/top_logo.png
+0 32 0 166652 0 0
+/upload/goods/20231201248241034.jpg
+0 3 0 679770 0 0
+/images/background/bg_C.jpg
+0 1 0 743566 0 0
+/board/upload/tck/1005/20230309163215_m.jpg
+0 1 0 139119 0 0
+/home/reserve_tck/
+0 2 0 56469 0 0
+/seditor/js/SE2BasicCreator.js
+0 4 0 9616 0 0
+/images/good_img/1/000A01111_0004A.jpg
+0 2 0 129508 0 0
+/upload/goods/20221121105946327.jpg
+0 2 0 960582 0 0
+/css/addon.css
+0 37 0 125656 0 0
+/admin/css/common.css
+0 7 0 12838 0 0
+/mobile/js/jquery.cookie-1.4.1.js
+0 3 0 5519 0 0
+/seditor/js/jindo.min.js
+0 4 0 485368 0 0
+/css/main.css
+0 37 0 210952 0 0
+/home/js/jquery-ui.min.js
+0 42 0 3817853 0 0
+/board/upload/main_img/20221130(4).JPG
+0 3 0 585762 0 0
+/images/goods/ico_calander.png
+0 8 0 4184 0 0
+/images/main/bg_thema.jpg
+0 24 0 112953 0 0
+/images/good_img/3/000C01112_0002A.jpg
+0 1 0 81106 0 0
+/home/js/swiper.min.js
+0 33 0 1407995 0 0
+/admin/images/ui-icons_888888_256x240.png
+0 5 0 35460 0 0
+/images/community/order_main_2.jpg
+0 2 0 1231726 0 0
+/mobile/
+0 9 0 105495 3 0
+/board/upload/m_20221115104449.jpg
+0 9 0 3926717 0 0
+/home/js/jquery-1.9.1.js
+0 39 0 4642135 0 0
+/admin/images/ico_copy.png
+0 7 0 10360 0 0
+/board/upload/tck/20230317(10).jpg
+0 1 0 252289 0 0
+/images/main/ptn_3_on.png
+0 2 0 9378 0 0
+/images/background/bg_B.jpg
+0 1 0 658607 0 0
+/images/main/ptn_2_off.png
+0 25 0 92568 0 0
+/seditor/img/bg_button_left.gif
+0 4 0 1324 0 0
+/admin/goods/view_inc.asp
+0 3 0 11982 0 0
+/board/upload/main_img/20221118.PNG
+0 24 0 42697200 0 0
+/css/popup.css
+0 37 0 118108 0 0
+/webnote/icon/italic.png
+0 2 0 2166 0 0
+/admin/images/loading.gif
+0 6 0 99030 0 0
+/admin/chart/Mogak_two.asp
+0 14 0 14504 0 0
+/admin/js/loader.js
+0 7 0 162771 0 0
+/images/member/member_cancel.png
+0 2 0 3196 0 0
+/admin/tour_info/images/tree-doc.gif
+0 1 0 582 0 0
+/home/include/best_ticket.asp
+0 51 0 66450 0 0
+/images/Goods/Tab02n.png
+0 2 0 3908 0 0
+/css/common.css
+0 37 0 127492 0 0
+/home/goods_view/
+0 54 0 544724 20 10
+/seditor/img/bg_button_right.gif
+0 4 0 4960 0 0
+/webnote/icon/image_link.png
+0 2 0 3082 0 0
+/admin/chart/mogak_year_song.asp
+0 14 0 12838 0 0
+/admin/js/jquery-ui.css
+0 7 0 55965 0 0
+/admin/goods/list.asp
+0 6 0 31194 0 0
+/images/community/order_main_1.jpg
+0 2 0 2241784 0 0
+/mobile/css/jquery.fancybox.css
+0 2 0 3716 0 0
+/mobile/js/jquery-2.2.3.min.js
+0 3 0 115874 0 0
+/upload/goods/20231201247417690.jpg
+0 3 0 493725 0 0
+/board/upload/tck/1006/20230310155156_m.jpg
+0 6 0 869964 0 0
+/images/main/bg_main1.png
+0 24 0 23966 0 0
+/images/good_img/3/000C01112_0003A.jpg
+0 1 0 92362 0 0
+/images/goods/tab03n.png
+0 1 0 2037 0 0
+/images/background/bg_A.jpg
+0 2 0 897182 0 0
+/webnote/icon/source.png
+0 2 0 2890 0 0
+/board/upload/m_20221115110731.jpg
+0 8 0 4560072 0 0
+/board/upload/tck/20230317(11).jpg
+0 1 0 307836 0 0
+/images/main/ico_face.png
+0 28 0 47179 0 0
+/admin/images/ico_chuga.png
+0 6 0 15108 0 0
+/admin/css/style_pop.css
+0 6 0 1220 0 0
+/webnote/webnote.css
+0 2 0 4522 0 0
+/images/goods/bar_btn.png
+0 8 0 992 0 0
+/images/Goods/Tab03n.png
+0 2 0 4074 0 0
+/upload/img/air_logo/ZZ.gif
+0 2 0 4272 0 0
+/admin/images/btn_all_select.gif
+0 2 0 450 0 0
+/mobile/order/order_list.asp
+0 1 0 7376 0 0
+/home/js/jquery.fancybox.css
+0 36 0 57452 0 0
+/board/upload/tck/1005/20230309163148_m.jpg
+0 24 0 3494942 0 0
+/admin/goods_tck/step_calendar.asp
+0 31 0 173975 0 0
+/admin/tour_info/images/tree-node-open-end.gif
+0 1 0 85 0 0
+/home/good_tck/ticket_price.asp
+0 19 0 2555 0 0
+/admin/goods_tck/tck_list.asp
+0 25 0 113923 0 0
+/admin/tour_info/images/tab_2_on.png
+0 2 0 6484 0 0
+/mobile/js/banner.js
+0 2 0 44830 0 0
+/admin/exchange/exchange_list.asp
+0 1 0 1048 0 0
+/home/js/jquery-ui.css
+0 18 0 209773 0 0
+/board/upload/tck/1000/20221115111824_m.jpg
+0 7 0 1682555 0 0
+/images/main/ptn_1_off.png
+0 28 0 72390 0 0
+/mobile/js/navigation.js
+0 3 0 3737 0 0
+/board/upload/20221214(1).jpg
+0 1 0 2496795 0 0
+/upload/goods/2023120124702499.jpg
+0 3 0 331167 0 0
+/admin/goods_tck/tck_ins_ok.asp
+0 1 0 276 0 0
+/images/good_img/3/000C01112_0004A.jpg
+0 1 0 89934 0 0
+/images/goods/tab04n.png
+0 1 0 1843 0 0
+/admin/reserve_tck/reserve_list.asp
+0 2 0 4895 0 0
+/admin/tour_info/area_menu.asp
+0 1 0 1678 0 0
+/board/upload/tck/20230317(12).jpg
+0 3 0 800655 0 0
+/board/upload/tck/1005/20230309163235_m.jpg
+0 1 0 165080 0 0
+/admin/images/btn_plus.gif
+0 3 0 1167 0 0
+/admin/chart/mogak_year.asp
+0 14 0 12572 0 0
+/css/board.css
+0 37 0 153628 0 0
+/home/community/captcha.asp
+0 9 0 30366 0 0
+/upload/goods/202211211123567971.jpg
+0 2 0 749556 0 0
+/css/member.css
+0 37 0 131440 0 0
+/images/Goods/Tab04n.png
+0 2 0 3686 0 0
+/images/main/bg_banner2.png
+0 25 0 21459 0 0
+/images/goods/event_C.png
+0 24 0 46742 0 0
+/admin/css/layout.css
+0 6 0 35148 0 0
+/home/infor/weather_au.asp
+0 1 0 2569 0 0
+/home/order/
+0 5 0 64436 1 0
+/wp-includes/Requests/Text/admin.php
+0 1 0 1403 0 0
+/admin/tour_info/DynamicTree.js
+0 1 0 3414 0 0
+/seditor/img/bg_text_tool.gif
+0 4 0 4492 0 0
+/home/js/jquery.film_roll.min.js
+0 34 0 146438 0 0
+/images/goods/b_next_on.png
+0 2 0 2670 0 0
+/home/goods_view/w_today_temp.asp
+0 4 0 0 0 0
+/board/upload/20221214(2).jpg
+0 2 0 1664542 0 0
+/mobile/images/main/mtn_1_on.png
+0 2 0 9894 0 0
+/images/etc/training_1.jpg
+0 2 0 958338 0 0
+/mobile/images/main/open.png
+0 2 0 3618 0 0
+/admin/main/main_notice.asp
+0 14 0 10038 0 0
+/images/main/ajax-loader.gif
+0 26 0 431911 0 0
+/admin/images/bg_login.jpg
+0 9 0 8036512 0 0
+/mobile/images/main/top_logo.png
+0 2 0 10852 0 0
+/board/upload/tck/1001/20221118193153_m.jpg
+0 4 0 754484 0 0
+/admin/scripts/ui-icons_454545_256x240.png
+0 6 0 26214 0 0
+/home/member/ok_member.asp
+0 1 0 531 0 0
+/mobile/images/main/ptn_1_on.png
+0 2 0 7806 0 0
+/board/upload/tck/20230317(13).jpg
+0 3 0 904209 0 0
+/mobile/js/common.js
+0 3 0 29306 0 0
+/seditor/photo_uploader/plugin/hp_SE2M_AttachQuickPhoto_good.js
+0 3 0 5646 0 0
+/admin/images/top_list.png
+0 7 0 9639 0 0
+/upload/img/air_logo/KE.gif
+0 2 0 1196 0 0
+/images/main/bg_banner1.png
+0 27 0 23817 0 0
+/board/upload/tck/1001/20221118193147_m.jpg
+0 4 0 748680 0 0
+/images/goods/event_B.png
+0 26 0 50050 0 0
+/css/layout.css
+0 37 0 561880 0 0
+/mobile/include/best_tour.asp
+0 4 0 5884 0 0
+/mobile/images/main/btn_hdleft.png
+0 2 0 772 0 0
+/admin/scripts/jquery-ui.js
+0 7 0 1060661 0 0
+/mobile/order/captcha.asp
+0 1 0 3374 0 0
+/webnote/icon/sourcebox.png
+0 2 0 2410 0 0
+/board/upload/main_img/20221117(1).JPG
+0 26 0 2168620 0 0
+/images/background/bg_10.jpg
+0 4 0 2148292 0 0
+/home/good_tck/
+0 120 0 2237959 21 15
+/admin/tour_info/images/tree-node.gif
+0 1 0 89 0 0
+/home/member/member_chk.asp
+0 3 0 360 0 0
+/seditor/smart_editor2_inputarea.html
+0 4 0 1146 0 0
+/home/include/best_tour.asp
+0 56 0 37325 0 0
+/board/upload/tck/20221118(1).jpg
+0 5 0 1458421 0 0
+/admin/images/ico_modify.png
+0 7 0 10864 0 0
+/webnote/icon/font.png
+0 2 0 2700 0 0
+/admin/tour_info/nat_detail.asp
+0 1 0 1034 0 0
+/board/upload/after/20221214110114_m.jpg
+0 26 0 10643175 0 0
+/board/upload/main_img/20221117.JPG
+0 26 0 2114593 0 0
+/mobile/js/swiper.min.js
+0 3 0 76698 0 0
+/board/upload/20221214(3).jpg
+0 2 0 4449340 0 0
+/webnote/icon/image_upload.png
+0 2 0 2784 0 0
+/images/goods/b_prev_on.png
+0 2 0 2696 0 0
+/mobile/css/style.css
+0 2 0 4974 0 0
+/home/goods_view/Day_txt.asp
+0 3 0 21319 0 0
+/admin/goods/selectdate.asp
+0 2 0 2818 0 0
+/board/upload/tck/20230317(14).jpg
+0 3 0 1502181 0 0
+/seditor/img/ico_extend.png
+0 4 0 1080 0 0
+/mobile/css/common.css
+0 2 0 6872 0 0
+/admin/goods_tck/day_make.asp
+0 17 0 77159 0 0
+/images/member/member_ok.png
+0 2 0 3392 0 0
+/admin/main/reserve_tour.asp
+0 14 0 8050 0 0
+/mobile/js/bjqs-1.3.min.js
+0 2 0 5780 0 0
+/images/member/login_kakao.png
+0 2 0 6512 0 0
+/images/main/order_img.png
+0 27 0 1130520 0 0
+/seditor/SmartEditor2Skin.html
+0 1 0 18297 0 0
+/css/style.css
+0 40 0 11871 0 0
+/board/upload/tck/1006/20230310155229_m.jpg
+0 1 0 134985 0 0
+/board/upload/main_img/20221117(2).JPG
+0 26 0 1517457 0 0
+/board/upload/tck/1004/20230307163135_m.jpg
+0 24 0 1965648 0 0
+/images/background/bg_20.jpg
+0 6 0 4625724 0 0
+/admin/main/money_input.asp
+0 14 0 6650 0 0
+/home/member/ok_leave.asp
+0 1 0 422 0 0
+/home/js/jquery-ui.js
+0 1 0 151507 0 0
+/seditor/css/smart_editor2.css
+0 4 0 16480 0 0
+/admin/tour_info/ie5.js
+0 1 0 783 0 0
+/images/logo/sns_logo.png
+0 3 0 98162 0 0
+/home/goods_view/Day_schedule.asp
+0 4 0 31939 0 0
+/upload/goods/20231201247589805.jpg
+0 3 0 303057 0 0
+/images/goods/ico_select.png
+0 6 0 6408 0 0
+/images/main/fancybox_loading.gif
+0 1 0 3866 0 0
+/webnote/icon/forecolor.png
+0 2 0 2536 0 0
+/board/upload/tck/20221118(2).jpg
+0 4 0 12390372 0 0
+/mobile/images/main/mtn_2_off.png
+0 2 0 9732 0 0
+/admin/login.asp
+0 13 0 20107 0 0
+/robots.txt
+0 65 0 28248 0 0
+/webnote/icon/justifyright.png
+0 2 0 2138 0 0
+/images/etc/img_5.jpg
+0 2 0 557214 0 0
+/upload/goods/20231201250403925.jpg
+0 3 0 939735 0 0
+/admin/scripts/jquery-1.9.1.js
+0 7 0 734636 0 0
+/webnote/icon/backcolor.png
+0 2 0 2430 0 0
+/webnote/icon/seperator.png
+0 2 0 2044 0 0
+/board/upload/tck/20230317(15).jpg
+0 3 0 993771 0 0
+/images/main/ptn_2_on.png
+0 2 0 8684 0 0
+/admin/css/style.css
+0 6 0 1195 0 0
+/board/upload/tck/1001/20221118193140_m.jpg
+0 4 0 672568 0 0
+/mobile/include/best_ticket.asp
+0 4 0 9388 0 0
+/admin/images/ico_view.png
+0 1 0 1428 0 0
+/seditor/img/bg_button.gif
+0 4 0 2104 0 0
+/images/community/order_click.jpg
+0 2 0 59938 0 0
+/webnote/icon/fontsize.png
+0 2 0 2252 0 0
+/board/upload/main_img/20221117(3).JPG
+0 26 0 3809796 0 0
+/mobile/css/banner2.css
+0 2 0 2140 0 0
+/board/upload/tck/1001/20221118193134_m.jpg
+0 8 0 1812251 0 0
+/images/goods/tabi_icn_hotel.gif
+0 2 0 180 0 0
+/seditor/js/SE2B_Configuration_General.js
+0 4 0 5092 0 0
+/admin/goods_tck/day_make_add.asp
+0 10 0 2768 0 0
+/admin/tour_info/area_detail_infor.asp
+0 1 0 3262 0 0
+/board/upload/tck/1000/20221115111711_m.jpg
+0 28 0 6144088 0 0
+/webnote/icon/insertunorderedlist.png
+0 2 0 2062 0 0
+/home/js/swiper.min.css
+0 32 0 117247 0 0
+/board/upload/main_img/20221114(1).JPG
+0 32 0 7916089 0 0
+/board/upload/tck/20221118(3).jpg
+0 4 0 507792 0 0
+/images/etc/img_4.jpg
+0 2 0 268050 0 0
+/admin/tour_info/DynamicTree.css
+0 1 0 1085 0 0
+/admin/images/top_calendar.png
+0 4 0 4936 0 0
+/home/js/animatescroll.js
+0 8 0 21445 0 0
+/home/js/tooltipsy.min.js
+0 41 0 90945 0 0
+/seditor/css/smart_editor2_in.css
+0 4 0 2196 0 0
+/home/company/agree_service.asp
+0 2 0 26810 0 0
+/admin/chart/Mogak_pie_song.asp
+0 14 0 10892 0 0
+/board/upload/tck/1002/20230201113753_m.jpg
+0 24 0 6954650 0 0
+/home/goods_view/Day_ifrm_day_cal.asp
+0 4 0 7748 0 0
+/admin/tour_info/images/tree-folder-open.gif
+0 1 0 376 0 0
+/board/upload/tck/20230317(16).jpg
+0 3 0 1358274 0 0
+/admin/chart/
+0 14 0 30632 2 3
+/home/community/
+0 54 0 621722 6 2
+/board/upload/main_img/20221114.JPG
+0 32 0 18474417 0 0
+/admin/goods_tck/day_cost_ok.asp
+0 3 0 1101 0 0
+/mobile/css/banner1.css
+0 2 0 1406 0 0
+/mobile/images/main/call.png
+0 2 0 4724 0 0
+/board/upload/tck/20230201.jpg
+0 3 0 489387 0 0
+/admin/scripts/jquery-ui.css
+0 6 0 47100 0 0
+/admin/tour_info/images/tab_3_off.png
+0 1 0 3289 0 0
+/mobile/images/main/mtn_1_off.png
+0 2 0 9302 0 0
+/board/upload/main_img/20221117(4).JPG
+0 26 0 3812446 0 0
+/images/etc/img_3.jpg
+0 3 0 406464 0 0
+/mobile/css/bjqs.css
+0 2 0 2280 0 0
+/mobile/images/main/kakao_2.png
+0 2 0 9980 0 0
+/board/upload/main_img/20221114(2).JPG
+0 31 0 17093734 0 0
+/board/upload/tck/20230317(4).jpg
+0 1 0 395202 0 0
+/admin/tour_info/images/tab_1_on.png
+0 1 0 3411 0 0
+/board/upload/tck/20221118(4).jpg
+0 4 0 982756 0 0
+/home/js/jquery.ba-hashchange.1.3.min.js
+0 6 0 59766 0 0
+/home/etc/
+0 5 0 54471 1 0
+/seditor/img/ko_KR/btn_set.png
+0 4 0 5876464 0 0
+/admin/goods/view_detail_ok.asp
+0 2 0 568 0 0
+/admin/scripts/base-menu.js
+0 7 0 2674 0 0
+/admin/goods_tck/tck_copy.asp
+0 1 0 6683 0 0
+/board/upload/after/20221214104919_m.jpg
+0 26 0 21454738 0 0
+/images/logo/favicon-32x32.png
+0 43 0 75150 0 0
+/board/upload/tck/20230317(17).jpg
+0 3 0 709410 0 0
+/images/member/login_naver.png
+0 1 0 3028 0 0
+/admin/tour_info/images/tree-node-open.gif
+0 1 0 86 0 0
+/webnote/icon/note.png
+0 2 0 2236 0 0
+/seditor/SmartEditor2Skin_good.asp
+0 20 0 371720 0 0
+/images/main/ico_insta.png
+0 28 0 61111 0 0
+/admin/images/ico_booking.png
+0 6 0 9438 0 0
+/admin/tour_info/images/tree-leaf-end.gif
+0 1 0 66 0 0
+/images/etc/img_2.jpg
+0 2 0 306902 0 0
+/images/goods/tabi_icn_food.gif
+0 2 0 168 0 0
+/board/upload/20221214.jpg
+0 1 0 1415870 0 0
+/board/upload/main_img/20221117(5).JPG
+0 26 0 4885859 0 0
+/home/member/
+0 7 0 122612 0 0
+/images/main/mtn_2_off.png
+0 25 0 83100 0 0
+/home/js/jquery.fancybox.pack.js
+0 37 0 424125 0 0
+/images/main/No_img_01.jpg
+0 25 0 145669 0 0
+/admin/reserve/reserve.asp
+0 2 0 6738 0 0
+/admin/tour_info/area_total.asp
+0 1 0 952 0 0
+/images/goods/btn_close.png
+0 9 0 13896 0 0
+/board/upload/main_img/20221114(3).JPG
+0 30 0 11739536 0 0
+/mobile/images/main/my_in.png
+0 2 0 6630 0 0
+/home/company/agree_out.asp
+0 2 0 14170 0 0
+/board/upload/tck/20230317(5).jpg
+0 1 0 223804 0 0
+/mobile/order/order_write.asp
+0 1 0 14122 0 0
+/images/main/bg_main.png
+0 26 0 23517 0 0
+/board/upload/tck/20230317.jpg
+0 1 0 132849 0 0
+/mobile/images/main/up-arrow.png
+0 2 0 5036 0 0
+/webnote/icon/justifyleft.png
+0 2 0 2114 0 0
+/upload/goods/20231201249122412.jpg
+0 3 0 509112 0 0
+/mobile/goods_view/goods_day.asp
+0 2 0 24129 0 0
+/board/upload/m_20221115110238.jpg
+0 8 0 5359568 0 0
+/admin/tour_info/images/tab_2_off.png
+0 1 0 3222 0 0
+/admin/tour_info/area_detail.asp
+0 1 0 1749 0 0
+/admin/goods_tck/day_cost.asp
+0 8 0 33665 0 0
+/images/etc/img_qna.jpg
+0 2 0 44694 0 0
+/home/js/base-menu.js
+0 37 0 13908 0 0
+/webnote/icon/hr.png
+0 2 0 2094 0 0
+/images/goods/b_open.png
+0 2 0 2780 0 0
+/images/etc/img_1.jpg
+0 2 0 324954 0 0
+/home/member/id_check.asp
+0 1 0 120 0 0
+/webnote/webnote.js
+0 2 0 79464 0 0
+/upload/goods/20221121112652299.jpg
+0 2 0 331604 0 0
+/images/main/fancybox_sprite.png
+0 1 0 1362 0 0
+/board/upload/main_img/20221117(6).JPG
+0 26 0 3618079 0 0
+/images/goods/tab02.png
+0 1 0 2062 0 0
+/webnote/icon/textbox.png
+0 2 0 2098 0 0
+/seditor/css/smart_editor2_items.css
+0 4 0 40188 0 0
+/admin/images/btn_minus.gif
+0 3 0 741 0 0
+/images/background/bg_community.jpg
+0 3 0 1787040 0 0
+/admin/images/ui-icons_454545_256x240.png
+0 5 0 35355 0 0
+/board/upload/tck/1000/20221115111742_m.jpg
+0 8 0 1854024 0 0
+/board/upload/main_img/20221114(4).JPG
+0 29 0 14017530 0 0
+/images/goods/day_b.png
+0 2 0 3228 0 0
+/board/upload/tck/20230317(6).jpg
+0 1 0 286311 0 0
+/mobile/images/main/ptn_3_off.png
+0 2 0 8478 0 0
+/board/upload/tck/1004/20230307163351_m.jpg
+0 1 0 240532 0 0
+/webnote/icon/pageadd.png
+0 2 0 2276 0 0
+/webnote/icon/insertorderedlist.png
+0 2 0 2152 0 0
+/admin/goods_tck/tck_ins.asp
+0 4 0 29615 0 0
+/admin/tour_info/images/tree-leaf.gif
+0 1 0 69 0 0
+/admin/tour_info/images/tree-branch.gif
+0 1 0 66 0 0
+/webnote/icon/bold.png
+0 2 0 2312 0 0
+/images/main/ico_ser.png
+0 33 0 53903 0 0
+/board/upload/tck/20230201(2).jpg
+0 3 0 1350069 0 0
+/mobile/css/default.css
+0 2 0 37890 0 0
+/images/goods/Tab01.png
+0 2 0 4250 0 0
+/images/main/mtn_1_off.png
+0 28 0 61617 0 0
+/webnote/icon/justifycenter.png
+0 2 0 2122 0 0
+/admin/scripts/jquery-1.6.2.min.js
+0 1 0 40876 0 0
+/webnote/icon/insertfirstparagraph.png
+0 2 0 2228 0 0
+/upload/goods/20221121116253592.jpg
+0 2 0 648704 0 0
+/webnote/icon/insertlastparagraph.png
+0 2 0 2212 0 0
+/mobile/js/js.js
+0 3 0 4604 0 0
+/admin/goods/make.asp
+0 3 0 49533 0 0
+/images/good_img/1/000A01111_0001A.jpg
+0 9 0 601587 0 0
+/admin/scripts/jquery.iframeResizer.min.js
+0 1 0 1328 0 0
+/board/upload/tck/1005/20230309163158_m.jpg
+0 1 0 187418 0 0
+/webnote/icon/whats.png
+0 2 0 1868 0 0
+/board/upload/tck/1002/20230201114109_m.jpg
+0 3 0 609456 0 0
+/board/upload/main_img/20221114(5).JPG
+0 27 0 29415378 0 0
+/board/upload/tck/20230317(7).jpg
+0 1 0 266512 0 0
+/board/upload/main_img/20221130(1).JPG
+0 2 0 444874 0 0
+/home/infor/
+0 1 0 10458 0 0
+/admin/goods/View_inc_all.asp
+0 1 0 3266 0 0
+/board/upload/tck/20230201(3).jpg
+0 3 0 1030029 0 0
+/upload/goods/20221121112103165.jpg
+0 2 0 1197222 0 0
+/images/main/mtn_1_on.png
+0 27 0 98091 0 0
+/admin/chart/price_year_song.asp
+0 14 0 12796 0 0
+/seditor/img/icon_set.gif
+0 4 0 18444 0 0
+/admin/tour_info/images/tree-folder.gif
+0 1 0 372 0 0
+/admin/images/btn_all_end.gif
+0 2 0 396 0 0
+/images/main/ptn_1_on.png
+0 25 0 97968 0 0
+/home/goods_view/web_week.asp
+0 4 0 700 0 0
+/upload/goods/20231201248566957.jpg
+0 3 0 713010 0 0
+/images/main/fancybox_overlay.png
+0 1 0 1003 0 0
+/admin/main/Reserve_tkt.asp
+0 14 0 7882 0 0
+/admin/bin_page.html
+0 5 0 2385 0 1
+/images/main/ico_kakao.png
+0 28 0 61327 0 0
+/images/main/slide_prev.png
+0 25 0 54696 0 0
+/mobile/images/main/ptn_2_off.png
+0 2 0 9358 0 0
+/seditor/js/HuskyEZCreator.js
+0 4 0 6668 0 0
+/images/good_img/1/000A01111_0002A.jpg
+0 2 0 180190 0 0
+/upload/goods/2023120124432300.jpg
+0 3 0 638595 0 0
+/admin/chart/price_pie_song.asp
+0 14 0 10878 0 0
+/upload/goods/20231201248362866.jpg
+0 3 0 792378 0 0
+/mobile/goods_view/goods_list.asp
+0 2 0 14588 0 0
+/seditor/js/SE2B_Configuration_Service.js
+0 4 0 4792 0 0
+/webnote/icon/unlink.png
+0 2 0 2994 0 0
+/seditor/photo_uploader/plugin/hp_SE2M_AttachQuickPhoto.js
+0 1 0 1863 0 0
+/seditor/img/ko_KR/text_tool_set.png
+0 4 0 45612 0 0
+/webnote/icon/special_chars.png
+0 2 0 2868 0 0
+/images/member/login_ok.png
+0 1 0 1692 0 0
+/board/upload/tck/20230317(8).jpg
+0 1 0 169060 0 0
+/board/upload/main_img/20221130(2).JPG
+0 2 0 699036 0 0
+/images/logo/favicon-16x16.png
+0 13 0 19105 0 0
+/seditor/js/smarteditor2.js
+0 1 0 205020 0 0
+/admin/images/ico_delete.png
+0 6 0 9240 0 0
+/mobile/js/jquery.fancybox.pack.js
+0 2 0 21458 0 0
+/board/upload/tck/20230201(4).jpg
+0 3 0 1036518 0 0
+/images/main/ico_youtube.png
+0 28 0 50903 0 0
+/admin/css/style_common.css
+0 7 0 12845 0 0
+/admin/images/top_ser.png
+0 7 0 10311 0 0
+/seditor/js/smarteditor2.min.js
+0 3 0 315360 0 0
+/seditor/js/jindo_component.js
+0 4 0 104296 0 0
+/webnote/icon/createlink.png
+0 2 0 2962 0 0
+/admin/
+0 33 0 83760 5 1
+/home/company/agree_privacy.asp
+0 1 0 9527 0 0
+/board/upload/tck/1000/20221115111717_m.jpg
+0 8 0 1391312 0 0
+/admin/goods/view.asp
+0 3 0 12664 0 0
+/webnote/icon/underline.png
+0 2 0 2250 0 0
+/board/upload/main_img/20221130.JPG
+0 2 0 525262 0 0
+/images/good_img/1/000A01111_0003A.jpg
+0 2 0 143924 0 0
+/board/upload/tck/1002/20230201113802_m.jpg
+0 3 0 822669 0 0
+/admin/goods_tck/change_category.asp
+0 2 0 2590 0 0
+/admin/images/ico_login.png
+0 7 0 10689 0 0
+/home/infor/weather_nz.asp
+0 2 0 5769 0 0
+/images/main/ptn_3_off.png
+0 25 0 99168 0 0
+/board/upload/m_20221115105945.jpg
+0 8 0 4118410 0 0
+/mobile/js/slick.js
+0 34 0 741126 0 0
+/admin/tour_info/images/tree-node-end.gif
+0 1 0 88 0 0
+/images/main/slide_next.png
+0 25 0 54840 0 0
+/home/js/jquery.sliderkit.1.9.2.pack.js
+0 30 0 161257 0 0
+/admin/scripts/iframeResizer.contentWindow.min.js
+0 1 0 1716 0 0
+/board/upload/tck/20230317(9).jpg
+0 2 0 673334 0 0
+/board/upload/main_img/20221130(3).JPG
+0 2 0 586712 0 0
+# End Of Table - urls
+# -sites- (monthly)
+209.127.253.74
+0 1 1 1883 0 0
+-
+34.64.82.72
+0 1 1 13404 1 1716843960
+/home/community/
+58.232.31.18
+0 1 1 436251 0 0
+-
+34.223.63.31
+0 4 2 18316 1 1715516001
+/
+40.77.188.190
+0 1 1 22594 0 0
+-
+54.73.165.177
+0 2 1 85977 1 1714711389
+/
+191.102.179.125
+0 1 1 1843 0 0
+-
+95.164.157.120
+0 1 0 615 1 1716910156
+/
+178.254.24.91
+0 3 1 17874 1 1716082324
+/
+40.77.202.102
+0 2 2 264577 0 0
+-
+80.94.92.105
+0 2 0 10460 1 1716778235
+-
+211.246.255.210
+0 75 73 8695122 1 1714645693
+/
+199.45.154.73
+0 4 3 26462 1 1715292212
+/
+199.45.154.74
+0 5 3 26949 1 1714783444
+/
+54.166.27.191
+0 1 0 498 1 1715800747
+/
+199.45.154.77
+0 4 3 26462 1 1714776468
+/
+40.77.202.113
+0 1 1 33081 0 0
+-
+95.164.156.108
+0 1 0 377 1 1715685083
+/
+34.205.77.180
+0 1 1 1499 0 0
+-
+95.164.156.110
+0 1 1 17812 1 1717117864
+/
+40.77.189.31
+0 1 1 12023 0 0
+-
+191.102.155.103
+0 1 1 247868 0 0
+-
+40.77.202.131
+0 1 1 8518 0 0
+-
+149.56.150.188
+0 66 64 1547923 1 1716604997
+/
+40.77.202.136
+0 1 1 268381 0 0
+-
+165.22.221.105
+0 2 0 1094 1 1716356575
+/
+81.17.96.195
+0 6 2 25516 1 1716692880
+/mobile/
+40.77.202.141
+0 2 2 17245 0 0
+-
+192.36.109.102
+0 1 0 634 1 1716761002
+/
+192.36.109.108
+0 1 0 498 1 1716761001
+/
+178.254.29.124
+0 3 1 17874 1 1714734155
+/
+45.139.36.86
+0 1 1 501472 0 0
+-
+40.77.190.39
+0 1 1 8537 0 0
+-
+80.248.227.19
+0 1 1 11779 1 1716095160
+/mobile/
+209.127.109.134
+0 1 0 504 1 1715642776
+/
+159.223.73.202
+0 1 0 479 1 1715087541
+/
+40.77.202.153
+0 4 4 36157 0 0
+-
+35.164.165.190
+0 2 0 1094 1 1717015896
+/
+95.164.156.144
+0 1 0 615 1 1716910154
+/
+35.95.120.32
+0 2 1 5189 1 1717053218
+-
+54.208.198.229
+0 1 1 1883 0 0
+-
+192.36.109.128
+0 1 1 0 1 1716761004
+/
+40.77.202.169
+0 1 1 469 0 0
+-
+40.77.189.71
+0 2 2 17055 0 0
+-
+92.118.39.244
+0 1 0 668 1 1716786042
+/
+40.77.202.171
+0 2 2 9764 0 0
+-
+40.77.202.173
+0 12 12 153838 0 0
+-
+40.77.202.177
+0 2 2 280404 0 0
+-
+95.164.156.162
+0 1 0 497 1 1716910156
+/
+209.127.97.56
+0 1 1 1883 0 0
+-
+141.138.208.43
+0 1 1 461 0 0
+-
+40.77.189.82
+0 1 1 12039 0 0
+-
+18.205.194.208
+0 1 1 1499 0 0
+-
+35.84.32.170
+0 3 2 18206 1 1715489395
+/
+35.175.217.44
+0 1 1 1499 0 0
+-
+52.201.223.89
+0 2 0 979 1 1715642779
+/
+38.154.214.40
+0 1 1 558642 0 0
+-
+209.127.110.210
+0 1 1 578187 0 0
+-
+118.235.3.147
+0 2 2 0 1 1717149733
+/
+209.127.108.145
+0 1 1 578187 0 0
+-
+118.235.3.151
+0 5 4 41920 1 1717150988
+/
+85.208.96.200
+0 6 6 22152 2 1716724120
+/home/goods_view/
+85.208.96.201
+0 3 3 1449 0 0
+-
+167.71.227.7
+0 21 1 181310 1 1716349156
+/
+85.208.96.203
+0 1 0 5243 0 0
+-
+85.208.96.204
+0 3 3 1449 0 0
+-
+85.208.96.205
+0 4 4 38456 3 1716914096
+/
+85.208.96.206
+0 2 1 5726 0 0
+-
+85.208.96.207
+0 1 1 483 0 0
+-
+85.208.96.208
+0 3 3 30302 3 1716493059
+/home/goods_view/
+85.208.96.209
+0 5 5 42500 4 1716024002
+/home/community/
+159.65.59.110
+0 2 0 1094 1 1716028823
+/
+85.208.96.210
+0 1 1 10127 1 1715077706
+/home/goods_view/
+85.208.96.211
+0 7 7 48841 4 1716929560
+/home/order/
+85.208.96.212
+0 3 3 1449 0 0
+-
+66.249.64.4
+0 2 1 1038 0 0
+-
+206.81.12.51
+0 2 1 18286 1 1714993983
+/
+54.197.28.190
+0 1 0 431 1 1716982831
+/
+51.89.41.71
+0 1 1 98934 1 1716428319
+/home/good_tck/
+144.91.106.14
+0 48 44 664575 1 1716720289
+/
+118.235.2.137
+0 4 3 24630 1 1717153271
+/
+209.127.108.170
+0 1 0 504 1 1717095678
+/
+222.108.137.226
+0 358 353 34265821 27 1717152763
+/
+167.94.146.58
+0 5 3 26949 1 1715292637
+/
+164.92.209.236
+0 2 0 1094 1 1716002223
+/
+54.38.179.11
+0 6 6 2444358 0 0
+-
+190.123.209.150
+0 1 1 578187 0 0
+-
+175.214.87.185
+0 1871 1704 162476107 19 1717000590
+/
+112.172.229.165
+0 1 1 0 1 1715788332
+/
+93.158.91.242
+0 1 0 668 1 1715610709
+/
+93.158.91.247
+0 1 1 11779 1 1715610711
+/mobile/
+93.158.91.249
+0 1 1 461 0 0
+-
+92.253.28.160
+0 1 1 98934 1 1716499679
+/home/good_tck/
+58.76.239.36
+0 70 49 7078887 1 1715179373
+/home/member/
+34.210.139.87
+0 1 0 0 1 1717015905
+/
+45.139.67.113
+0 1 1 247868 0 0
+-
+137.184.89.84
+0 2 0 1094 1 1715325330
+/
+95.164.157.94
+0 1 1 501472 0 0
+-
+52.230.152.44
+0 1 1 461 0 0
+-
+46.101.102.32
+0 2 0 1094 1 1716175090
+/
+209.127.107.192
+0 1 1 405510 0 0
+-
+35.87.53.88
+0 2 1 5189 1 1716602468
+-
+175.192.226.127
+0 132 116 5554286 3 1716911015
+/admin/bin_page.html
+40.77.189.238
+0 1 1 12039 0 0
+-
+35.175.194.132
+0 1 0 431 1 1717095680
+/
+52.230.152.66
+0 1 1 461 0 0
+-
+40.77.189.4
+0 1 1 10492 0 0
+-
+40.77.189.5
+0 1 1 12023 0 0
+-
+151.248.1.103
+0 1 1 461 0 0
+-
+173.252.83.119
+0 1 1 96 0 0
+-
+64.225.63.135
+0 2 0 1094 1 1715829903
+/
+58.29.143.64
+0 74 73 8768812 1 1717168441
+/
+95.164.159.71
+0 1 1 1843 0 0
+-
+93.158.91.11
+0 6 4 40594 2 1716670456
+/
+94.247.172.129
+0 2 1 18257 1 1715791371
+/
+209.127.106.186
+0 1 0 377 1 1715800745
+/
+51.77.66.59
+0 6 6 2444358 0 0
+-
+209.127.252.31
+0 1 0 377 1 1716982828
+/
+93.158.91.25
+0 3 2 20297 1 1715142776
+/
+93.158.91.31
+0 3 2 20297 1 1715652579
+/
+192.36.109.73
+0 1 1 461 0 0
+-
+110.92.23.141
+0 1 0 487 1 1714647781
+/
+87.236.176.171
+0 1 1 1635 0 0
+-
+40.77.188.254
+0 1 1 29139 0 0
+-
+18.246.1.109
+0 2 1 5185 1 1716634468
+-
+198.245.77.218
+0 1 1 558642 0 0
+-
+209.127.252.66
+0 1 1 1499 0 0
+-
+38.154.214.154
+0 1 0 615 1 1715800745
+/
+62.141.44.236
+0 3 1 17874 1 1715394300
+/
+191.102.157.214
+0 1 1 1843 0 0
+-
+87.236.176.190
+0 1 1 1251 0 0
+-
+87.236.176.192
+0 1 1 1251 0 0
+-
+173.252.83.18
+0 2 1 85007 1 1714769851
+/
+35.213.253.82
+0 15 12 309472 1 1715628875
+/home/goods_view/
+209.127.104.167
+0 1 1 247868 0 0
+-
+222.101.153.95
+0 74 73 8768799 1 1716869716
+/
+40.77.190.133
+0 2 2 15950 0 0
+-
+66.249.69.129
+0 1 1 464 0 0
+-
+199.244.88.219
+0 1 0 118 1 1717007316
+/
+66.249.69.130
+0 1 1 13478 1 1715456860
+/home/community/
+35.94.222.183
+0 2 0 1094 1 1716669619
+/
+180.83.245.245
+0 3 1 18893 1 1716768270
+/
+130.255.162.249
+0 1 0 498 1 1715138171
+/
+199.244.88.220
+0 1 1 17290 1 1717007318
+/
+199.244.88.221
+0 1 1 17277 1 1715183230
+/
+199.244.88.224
+0 1 0 479 1 1715183217
+/
+199.244.88.227
+0 1 0 479 1 1717007314
+/
+199.244.88.228
+0 1 0 118 1 1715183221
+/
+52.230.152.139
+0 1 1 461 0 0
+-
+54.149.113.184
+0 2 1 18414 1 1716669623
+/
+193.34.74.215
+0 1 1 405510 0 0
+-
+199.45.155.37
+0 5 2 26038 1 1716314314
+/
+209.127.109.207
+0 1 0 615 1 1717095675
+/
+1.251.98.125
+0 2 2 463506 0 0
+-
+34.201.117.111
+0 1 1 1883 0 0
+-
+159.203.45.111
+0 2 0 1094 1 1717041242
+/
+178.254.12.183
+0 3 1 17874 1 1716896548
+/
+186.179.59.186
+0 1 1 17799 1 1716951452
+/
+152.42.232.101
+0 48 1 247021 0 0
+-
+118.235.3.21
+0 1 1 0 1 1717151256
+/
+34.85.180.57
+0 6 4 20263 1 1716621511
+/
+40.77.190.173
+0 1 1 10492 0 0
+-
+52.207.254.164
+0 1 1 17799 1 1716982834
+/
+34.255.123.56
+0 1 0 634 1 1715029714
+/
+65.154.226.169
+0 2 1 18286 1 1714522882
+/
+1.217.11.174
+0 78 77 9726282 1 1715099749
+/home/good_tck/
+193.34.74.254
+0 1 1 247868 0 0
+-
+45.55.202.40
+0 2 0 1094 1 1716693791
+/
+61.140.46.156
+0 1 0 5225 0 0
+-
+52.230.152.185
+0 1 1 461 0 0
+-
+157.55.39.6
+0 6 6 443390 1 1716288199
+/home/good_tck/
+157.55.39.7
+0 2 2 16807 1 1715461764
+/home/goods_view/
+35.160.236.111
+0 2 1 18414 1 1714943583
+/
+40.77.188.83
+0 13 13 161231 0 0
+-
+40.77.188.86
+0 31 31 569563 1 1715928571
+/
+40.77.202.0
+0 1 1 8518 0 0
+-
+141.138.211.251
+0 1 1 11779 1 1715138175
+/mobile/
+66.249.79.64
+0 1 1 13404 1 1716827395
+/home/community/
+66.249.79.65
+0 1 1 464 0 0
+-
+159.223.58.205
+0 4 0 20828 0 0
+-
+209.127.111.114
+0 1 1 17799 1 1715642869
+/
+40.77.190.3
+0 1 1 332 0 0
+-
+170.247.220.132
+0 1 1 5424 0 0
+-
+136.243.220.213
+0 54 52 530984 1 1714895326
+/home/community/
+34.240.192.246
+0 1 1 0 1 1715006461
+/
+69.10.48.160
+0 3 0 15057 0 0
+-
+93.158.127.79
+0 1 0 668 1 1715138172
+/
+3.83.255.151
+0 1 1 17799 1 1715800752
+/
+209.127.253.208
+0 1 0 504 1 1716982829
+/
+93.158.71.185
+0 1 0 634 1 1714545993
+/
+54.146.53.154
+0 1 1 17799 1 1715642781
+/
+159.65.59.245
+0 2 0 1094 1 1715146182
+/
+125.209.235.167
+0 11 11 820229 1 1716108988
+/
+125.209.235.168
+0 9 9 706374 0 0
+-
+125.209.235.169
+0 11 10 1927698 2 1716108979
+/mobile/
+5.133.192.87
+0 3 2 20297 1 1714635767
+/
+54.163.8.73
+0 1 0 548 1 1715800749
+/
+125.209.235.170
+0 3 3 7319 0 0
+-
+125.209.235.171
+0 9 9 86273 0 0
+-
+125.209.235.172
+0 8 8 304484 0 0
+-
+125.209.235.174
+0 10 9 412614 1 1714892854
+/mobile/
+125.209.235.175
+0 4 4 1120724 0 0
+-
+125.209.235.176
+0 5 5 1166718 1 1716743098
+/
+125.209.235.177
+0 10 10 1255209 0 0
+-
+125.209.235.178
+0 5 5 346453 0 0
+-
+125.209.235.179
+0 8 8 666536 0 0
+-
+167.71.232.211
+0 2 0 1094 1 1714793347
+/
+125.209.235.180
+0 10 10 773570 0 0
+-
+125.209.235.181
+0 12 12 771233 0 0
+-
+125.209.235.182
+0 5 4 60942 1 1716743090
+/mobile/
+125.209.235.183
+0 5 5 28152 0 0
+-
+125.209.235.184
+0 7 7 422769 1 1715577100
+/
+125.209.235.185
+0 8 8 625135 0 0
+-
+125.209.235.186
+0 3 2 51084 1 1715577093
+/mobile/
+209.127.110.146
+0 1 1 5424 0 0
+-
+138.246.253.24
+0 2 2 680 0 0
+-
+191.102.187.14
+0 1 1 17799 1 1716910166
+/
+38.154.186.54
+0 1 1 578187 0 0
+-
+14.52.96.124
+0 87 84 10535669 1 1715275465
+/
+87.236.176.23
+0 2 1 18257 1 1714946543
+/
+40.77.202.10
+0 1 1 8537 0 0
+-
+40.77.202.13
+0 1 1 10492 0 0
+-
+223.62.169.195
+0 3 2 7042 1 1716821450
+/admin/
+35.92.170.145
+0 3 1 1132 1 1715470336
+/
+165.22.84.175
+0 2 0 1094 1 1714820983
+/
+5.133.192.133
+0 3 2 20310 1 1717174658
+/
+40.77.202.29
+0 1 1 22594 0 0
+-
+35.91.49.151
+0 2 0 1094 1 1714943577
+/
+40.77.202.32
+0 1 1 50598 0 0
+-
+220.230.168.16
+0 2 2 519372 0 0
+-
+54.78.97.144
+0 2 1 86054 1 1717195284
+/
+38.154.198.71
+0 1 1 578187 0 0
+-
+165.232.108.22
+0 2 0 1094 1 1715491316
+/
+87.236.176.248
+0 1 1 17818 1 1714992132
+/
+38.154.198.236
+0 1 0 377 1 1717095678
+/
+167.248.133.56
+0 5 3 26949 1 1715644402
+/
+157.55.39.10
+0 1 1 9522 1 1714544488
+/home/goods_view/
+157.55.39.11
+0 11 11 227369 2 1715869372
+/home/goods_view/
+157.55.39.12
+0 2 1 9984 2 1716860885
+/home/good_tck/
+157.55.39.13
+0 1 1 9522 1 1716640416
+/home/goods_view/
+157.55.39.14
+0 2 2 15253 0 0
+-
+220.230.168.22
+0 1 1 32730 0 0
+-
+157.55.39.15
+0 1 1 194926 0 0
+-
+222.110.36.210
+0 102 101 17247832 1 1715517360
+/home/etc/
+192.241.67.84
+0 1 0 377 1 1715642776
+/
+93.158.90.33
+0 1 0 668 1 1716095158
+/
+40.77.202.52
+0 1 1 22594 0 0
+-
+40.77.202.54
+0 1 1 12039 0 0
+-
+40.77.202.57
+0 1 1 15618 0 0
+-
+40.77.189.135
+0 1 1 15618 0 0
+-
+14.34.71.221
+0 276 266 37841579 2 1716891260
+/
+85.208.96.193
+0 1 1 483 0 0
+-
+85.208.96.194
+0 1 1 483 0 0
+-
+107.178.205.90
+0 4 2 19075 1 1716002062
+/
+85.208.96.195
+0 7 7 35543 3 1716025935
+/home/good_tck/
+87.236.176.73
+0 1 1 1635 0 0
+-
+85.208.96.196
+0 3 3 21520 2 1715729604
+/home/good_tck/
+85.208.96.197
+0 1 1 483 0 0
+-
+85.208.96.198
+0 2 2 21077 2 1716890577
+/home/good_tck/
+85.208.96.199
+0 4 4 21298 2 1715766984
+/home/goods_view/
+93.158.90.41
+0 1 1 461 0 0
+-
+93.158.90.42
+0 1 0 498 1 1716095157
+/
+107.178.207.38
+0 4 2 19075 1 1716014488
+/
+191.102.162.241
+0 1 1 558642 0 0
+-
+40.77.202.64
+0 3 3 19361 0 0
+-
+54.81.106.179
+0 1 1 17812 1 1717095684
+/
+191.102.149.189
+0 1 1 1883 0 0
+-
+40.77.188.7
+0 2 2 268850 0 0
+-
+54.202.231.194
+0 4 1 19508 1 1715979552
+/
+138.197.127.137
+0 2 0 1094 1 1714966245
+/
+85.215.122.221
+0 4 0 20828 0 0
+-
+40.77.202.72
+0 3 3 83945 0 0
+-
+40.77.202.77
+0 1 1 33081 0 0
+-
+40.77.189.152
+0 1 1 22594 0 0
+-
+157.55.39.48
+0 3 3 43503 2 1716004135
+/home/etc/
+104.248.24.46
+0 2 0 1094 1 1716873038
+/
+209.127.106.96
+0 1 1 247868 0 0
+-
+107.178.207.51
+0 4 2 19075 1 1716028258
+/
+157.55.39.52
+0 1 1 9524 1 1715463543
+/home/goods_view/
+157.55.39.54
+0 2 2 22009 1 1716866158
+/home/goods_view/
+157.55.39.55
+0 5 5 97685 1 1715651394
+/home/goods_view/
+34.140.63.207
+0 24 23 241788 1 1716407636
+/home/goods_view/
+157.55.39.59
+0 1 1 7292 0 0
+-
+93.158.92.13
+0 1 0 498 1 1715610706
+/
+38.154.186.253
+0 1 1 405510 0 0
+-
+81.140.239.128
+0 1 1 490 0 0
+-
+157.55.39.60
+0 2 2 188036 0 0
+-
+157.55.39.61
+0 1 1 135488 0 0
+-
+40.77.188.130
+0 15 15 248650 0 0
+-
+3.82.176.225
+0 1 0 548 1 1716982832
+/
+211.210.76.6
+0 196 152 12085837 3 1716477149
+/home/reserve_tck/
+95.164.159.143
+0 1 1 5424 0 0
+-
+40.77.189.185
+0 1 1 469 0 0
+-
+157.55.39.200
+0 9 9 134185 3 1715779602
+/home/good_tck/
+157.55.39.204
+0 2 2 11265 2 1715772713
+/home/goods_view/
+209.127.253.41
+0 2 2 7267 0 0
+-
+107.178.207.87
+0 4 2 19075 1 1716017345
+/
+54.234.244.194
+0 1 0 548 1 1717095682
+/
+64.226.97.132
+0 2 1 18286 1 1716211681
+/
+199.45.154.16
+0 4 3 26462 1 1716133790
+/
+40.77.188.151
+0 1 1 50598 0 0
+-
+40.77.189.198
+0 2 2 318979 0 0
+-
+141.138.213.100
+0 2 1 18316 1 1714545994
+/
+45.139.64.229
+0 1 1 558642 0 0
+-
+40.77.188.164
+0 1 1 16913 0 0
+-
+40.77.188.165
+0 1 1 33081 0 0
+-
+40.77.188.168
+0 1 1 8518 0 0
+-
+35.83.249.86
+0 2 1 5193 1 1717033448
+-
+95.164.159.175
+0 1 0 615 1 1715642774
+/
+40.77.190.240
+0 1 1 469 0 0
+-
+34.64.82.65
+0 1 1 1499 0 0
+-
+209.127.97.105
+0 1 1 1843 0 0
+-
+34.64.82.66
+0 1 1 1883 0 0
+-
+34.64.82.67
+0 1 0 5224 0 0
+-
+128.61.160.214
+0 1 1 490 0 0
+-
+149.56.150.79
+0 19 12 649430 1 1716604966
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+95.164.156.110
+0 1 1 17812 1 1717117864
+/
+191.102.155.103
+0 1 1 247868 0 0
+-
+118.235.3.147
+0 2 2 0 1 1717149733
+/
+118.235.3.151
+0 5 4 41920 1 1717150988
+/
+85.208.96.203
+0 1 0 5243 0 0
+-
+85.208.96.206
+0 1 1 483 0 0
+-
+118.235.2.137
+0 4 3 24630 1 1717153271
+/
+222.108.137.226
+0 1 1 0 1 1717152763
+/
+58.29.143.64
+0 74 73 8768812 1 1717168441
+/
+118.235.3.21
+0 1 1 0 1 1717151256
+/
+38.154.186.54
+0 1 1 578187 0 0
+-
+5.133.192.133
+0 3 2 20310 1 1717174658
+/
+54.78.97.144
+0 2 1 86054 1 1717195284
+/
+85.208.96.195
+0 1 1 483 0 0
+-
+81.140.239.128
+0 1 1 490 0 0
+-
+209.127.97.105
+0 1 1 1843 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.tripoz.co.kr/admin/goods/view_detail.asp
+0 56
+- (Direct Request)
+0 825
+https://www.tripoz.co.kr/home/community/index.asp
+0 53
+https://www.tripoz.co.kr/css/main.css
+0 99
+https://www.tripoz.co.kr/admin/chart/Mogak_two.asp
+0 6
+https://www.tripoz.co.kr/admin/goods/view.asp
+0 10
+http://tripoz.co.kr/
+0 5
+https://www.tripoz.co.kr/mobile/index.asp
+0 129
+https://www.tripoz.co.kr/home/js/jquery.fancybox.css
+0 3
+https://www.tripoz.co.kr/admin/tour_info/area_menu.asp
+0 15
+https://www.tripoz.co.kr/css/common.css
+0 6
+https://www.tripoz.co.kr/admin/css/style_pop.css
+0 7
+https://www.tripoz.co.kr/admin/index.asp
+0 88
+https://www.tripoz.co.kr/index.asp
+0 718
+https://www.tripoz.co.kr/home/js/jquery-ui.css
+0 81
+https://www.tripoz.co.kr/home/goods_view/index.asp
+0 88
+https://www.tripoz.co.kr/admin/goods/list.asp
+0 16
+https://www.tripoz.co.kr/admin/goods_tck/tck_view.asp
+0 21
+http://tripoz.co.kr
+0 4
+https://www.tripoz.co.kr/home/member/ok_member.asp
+0 1
+https://www.tripoz.co.kr/admin/js/jquery-ui.css
+0 10
+https://www.tripoz.co.kr/admin/tour_info/area_detail_infor.asp
+0 5
+https://www.tripoz.co.kr/seditor/SmartEditor2Skin.html
+0 10
+https://www.tripoz.co.kr/home/etc/index.asp
+0 17
+https://www.tripoz.co.kr/seditor/css/smart_editor2.css
+0 32
+https://www.tripoz.co.kr/css/layout.css
+0 8
+https://www.tripoz.co.kr
+0 1
+https://www.tripoz.co.kr/admin/css/layout.css
+0 9
+https://www.tourgram.co.kr/
+0 1
+https://www.tripoz.co.kr/mobile/css/common.css
+0 2
+https://www.tripoz.co.kr/admin/goods_tck/day_cost_ok.asp
+0 3
+https://www.tripoz.co.kr/admin/goods_tck/tck_list.asp
+0 76
+https://www.tripoz.co.kr/admin/chart/mogak_year.asp
+0 1
+https://www.tripoz.co.kr/seditor/SmartEditor2Skin_good.asp
+0 30
+https://www.tripoz.co.kr/admin/scripts/jquery-ui.css
+0 65
+https://www.tripoz.co.kr/admin/goods_tck/tck_ins_ok.asp
+0 1
+http://www.tripoz.co.kr
+0 3
+https://www.tripoz.co.kr/home/order/index.asp
+0 10
+https://www.tripoz.co.kr/admin/css/style.css
+0 13
+https://www.google.com/
+0 3
+https://www.tripoz.co.kr/admin/login.asp
+0 45
+https://www.tripoz.co.kr/admin/tour_info/area_detail.asp
+0 1
+https://www.tripoz.co.kr/css/style.css
+0 217
+https://www.tripoz.co.kr/admin/reserve_tck/reserve_list.asp
+0 2
+https://www.tripoz.co.kr/home/member/index.asp
+0 18
+https://www.tripoz.co.kr/home/member/ok_leave.asp
+0 1
+https://www.google.co.kr/
+0 2
+https://www.tripoz.co.kr/admin/reserve/reserve.asp
+0 1
+https://www.tripoz.co.kr/admin/goods_tck/day_make.asp
+0 56
+https://tripoz.co.kr/home/goods_view/index.asp
+0 6
+https://tripoz.co.kr/css/style.css
+0 14
+https://www.tripoz.co.kr/admin/goods_tck/tck_ins.asp
+0 25
+https://www.tripoz.co.kr/seditor/smart_editor2_inputarea.html
+0 4
+https://www.tripoz.co.kr/home/reserve_tck/index.asp
+0 5
+https://www.tripoz.co.kr/
+0 961
+https://www.tripoz.co.kr/admin/
+0 12
+https://www.tripoz.co.kr/home/good_tck/index.asp
+0 274
+https://www.tripoz.co.kr/admin/goods_tck/tck_copy.asp
+0 5
+https://tripoz.co.kr/index.asp
+0 8
+https://www.tripoz.co.kr/admin/chart/index.asp
+0 160
+https://tripoz.co.kr/home/etc/index.asp
+0 8
+https://www.tripoz.co.kr/mobile/order/order_write.asp
+0 12
+https://www.tripoz.co.kr/admin/goods/make.asp
+0 31
+https://tripoz.co.kr
+0 2
+https://www.tripoz.co.kr/admin/goods_tck/day_cost.asp
+0 7
+https://www.tripoz.co.kr/admin/tour_info/area_total.asp
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+0 32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.195
+0 12
+Mozilla/5.0 (iPhone14,3; U; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19A3
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Whale/3.26.244.14 Safari/537.
+0 202
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Viewer/99.9.885
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 15
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98)
+0 1
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.1513.1946 Mo
+0 1
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.5980.1473 Mo
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm) Chrome/100.0.4896
+0 57
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+0 923
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 1
+Apache-HttpClient/5.1.4 (Java/11.0.18)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Whale/3.25.232.19 Safari/537.
+0 676
+Mozilla/5.0 (compatible; Orbbot/1.1;)
+0 6
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm) Chrome/112.0.0.0 
+0 71
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Android 14; Mobile; rv:123.0) Gecko/123.0 Firefox/123
+0 4
+Mozilla/5.0 (X11; U; Linux i686; fa; rv:1.8.1.4) Gecko/20100527 Firefox/3.6.4
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1;  https://about.censys.io/)
+0 32
+SAMSUNG-SGH-A867/A867UCHJ3 SHP/VPP/R5 NetFront/35 SMM-MMS/1.2.0 profile/MIDP-2.0 configuration/CLDC-1.1 UP.Link/6.3.0.0.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.602.0 Safari/534.14
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0;  info@netcraft.com)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+0 478
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 32
+Python-urllib/3.8
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm) Chrome/116.0.1938
+0 52
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 84
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; DataForSeoBot/1.0;  https://dataforseo.com/dataforseo-bot)
+0 54
+Mozilla/5.0 (compatible; SemrushBot/7~bl;  http://www.semrush.com/bot.html)
+0 58
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.464.0 Safari/534.3
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 22
+Mozilla/5.0 (compatible; Googlebot/2.1;  http://www.google.com/bot.html)
+0 6
+nhcapacketmng
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
+0 535
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.212.0 Safari/532.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Agency/93.8.235
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 
+0 139
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
+0 48
+Mozilla/5.0 (Linux; U; Android 13; sk-sk; Xiaomi 11T Pro Build/TKQ1.220829.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.211.4 Safari/532.0
+0 1
+DnBCrawler-Analytics
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.86
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+0 390
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; InternetMeasurement/1.0;  https://internet-measurement.com/)
+0 7
+scalaj-http/2.4.2
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 18
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.308.0 Safari/532.9
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/4.0.213.0 Safari/532.1
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; wow64; Trident/5.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+0 1
+facebookexternalhit/1.1 ( http://www.facebook.com/externalhit_uatext.php)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Whale/3.26.244.21 Safari/537.
+0 205
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.458.1 Safari/534.3
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0;  https://openai.com/gptbot)
+0 4
+Mozilla/5.0 (compatible; wpbot/1.1;  https://forms.gle/ajBaxygz9jSR8p8G9)
+0 15
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Sa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.2; rb.gy/oupwis) Chrome/124.0
+0 15
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.34 (KHTML, like Gecko) Dooble/1.40 Safari/534.34
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

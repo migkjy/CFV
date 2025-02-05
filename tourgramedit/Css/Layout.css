@@ -1,0 +1,93 @@
+﻿/* 웹에디터 */
+h3 { margin:0; padding:10px; font:12px '굴림'; font-weight:normal; text-align:center; color:#F0F0F0; background-color:#5E707E; }
+	h3 strong { font-weight:bold; color:#FFF; }
+#Category { width:531px; margin:10px auto 0 auto; padding:10px; border:solid 1px #DCDCE4; }
+    #Category select { font-size:12px; vertical-align:middle; }
+    #Category button { font:12px '돋움'; border:1px solid #6DBB4E; color:#FFF; background-color:#83C764; vertical-align:middle; cursor:pointer; }
+#EditorBox { width:553px; margin:10px auto; }
+    #EditorBox textarea { width:100%; height:200px; margin:0; padding:0; font:12px '돋움'; border:none; overflow:auto; }
+#BtnBox { width:553px; margin:0 auto 10px auto; padding:1px 0; text-align:center; }
+	#BtnBox button { font:12px '굴림'; padding:5px 10px; vertical-align:middle; cursor:pointer; }
+#ExpandToolBar { width:541px; margin:10px auto 0 auto; padding:5px; text-align:center; border:solid 1px #DCDCE4; }
+	#ExpandToolBar button { padding:5px 10px; font:12px '돋움'; border:1px solid #6C8ABB; color:#FFF; background-color:#829EC7; vertical-align:middle; cursor:pointer; }
+
+/* 이미지박스 */
+#ImageBox { width:551px; float:left; margin:10px 0 0 0; border:1px solid #E2E2E2; }
+	#ImageBox form { width:551px; height:30px; float:left; background-color:#F0F0F0; }
+		#ImageBox form div.Box {}
+		#ImageBox form div.Loading { padding-top:7px; text-align:center; }
+			#ImageBox form div.Loading img { vertical-align:middle; }
+		#ImageBox form span { float:left; margin:8px 0 0 10px; display:block; }
+		#ImageBox form p { float:left; margin:3px 0 0 0; padding:0 0 0 5px; }
+		#ImageBox form p input { font:12px '굴림'; }
+		#ImageBox form p button { font:12px '굴림'; }
+	#ImageBox ul { width:537px; height:144px; float:left; margin:0; padding:5px 7px; list-style-type:none; overflow:auto; }
+	#ImageBox ul.Loading { height:80px; padding-top:64px; text-align:center; }
+		#ImageBox ul.Loading img { vertical-align:middle; }
+		#ImageBox ul li { width:auto; height:44px; float:left; margin:0; padding:13px 7px; text-align:center; border:1px solid #FFF; overflow:hidden; } /* offset height : 72px */
+		#ImageBox ul li.Focus { border-color:#D8F0FA; background-color:#EFF8FD; }
+		#ImageBox ul li.Selected { border-color:#99DEFD; background-color:#E3F3FD; }
+			#ImageBox ul li img { margin:0; padding:2px; border:1px solid #CBD8E1; background-color:#FFF; vertical-align:top; cursor:pointer; }
+	#ImageBoxStatus { width:541px; float:left; padding:5px; font:11px '돋움'; background-color:#F0F0F0; }
+
+/* 이미지박스 - 속성창 */
+#ImageBoxPropertyBox { top:0; left:0; padding:5px; border:2px solid #000; background-color:#FFF; position:absolute; z-index:2; }
+	#ImageBoxPropertyBox table { table-layout:fixed; }
+		#ImageBoxPropertyBox table tr td { height:30px; padding:0; font:11px '돋움'; text-align:center; border:none; }
+		#ImageBoxPropertyBox table tr td.Image { height:310px; padding:0; }
+		#ImageBoxPropertyBox table tr td.Btn { border-top:1px solid #EEE; }
+			#ImageBoxPropertyBox table tr td.Btn img { vertical-align:middle; }
+			#ImageBoxPropertyBox table tr td input { font:12px '굴림'; vertical-align:middle; border:1px solid #CCC; }
+
+#PaletteBox { top:10px; left:10px; width:289px; padding:5px; border:solid 1px #9F9F9F; background-color:#FFF; position:absolute; z-index:2; }
+	#PaletteBox ul { float:left; margin:0; padding:0; list-style-type:none; }
+		#PaletteBox ul li { float:left; width:15px; height:15px; margin:0; padding:1px; }
+			#PaletteBox ul li button { width:15px; height:15px; margin:0; padding:0; border:none; vertical-align:top; cursor:pointer; }
+
+/* 강조박스 */
+#HighlightBox { top:0; left:0; width:400px; padding:5px; font:11px '돋움'; border:2px solid #000; background-color:#FFF; position:absolute; z-index:2; }
+	#HighlightBox div { width:90%; height:30px; margin:0 auto; padding:10px; }
+	#HighlightBox table { table-layout:fixed; margin:10px 0 0 0; border:solid 1px #DFE1DE; border-collapse:collapse; }
+		#HighlightBox table tr th { height:30px; font-weight:normal; text-align:center; color:#666; background-color:#FAFAFA; }
+		#HighlightBox table tr td { height:30px; padding-left:5px; text-align:left; }
+			#HighlightBox table tr td input, #HighlightBox table tr td select { font:12px '돋움'; vertical-align:middle; }
+			#HighlightBox table tr td span { font:14px '돋움'; font-weight:bold; vertical-align:middle; }
+			#HighlightBox table tr td img { border:solid 1px #EEE; vertical-align:middle; cursor:pointer; }
+	#HighlightBox p { margin:10px 0 5px 0; padding:1px 0; text-align:center; }
+	#HighlightBox p button { font:12px '굴림'; vertical-align:middle; border:1px solid #CCC; }
+
+/* 이미지관리 */
+#ImageTool { width:99%; margin:5px auto; }
+	#ImageTool .snv { width:138px; height:274px; float:left; margin:0 -150px 0 0; padding:5px; list-style-type:none; border:solid 1px #DCDCE4; overflow:auto; }
+		#ImageTool .snv p { margin:0; padding:5px 0; font:11px '돋움'; text-align:center; border-top:solid 1px #DCDCE4; border-bottom:solid 1px #DCDCE4; background-color:#F0F0F0; }
+		#ImageTool .snv li { margin:0; padding:5px 0 5px 5px; font:11px '돋움'; cursor:pointer; }
+			#ImageTool .snv li.Selected { background-color:#3399FF; color:#FFF; cursor:default; }
+			#ImageTool .snv li em { font-weight:bold; font-style:normal; }
+
+	#ImageTool .MessageBox { margin:3px 0; padding:5px 10px; font:11px '돋움'; font-weight:bold; border:solid 1px #999; background-color:#FEFACA; color:#000; }
+		#ImageTool .MessageBox button { margin:0; padding:2px 10px; font:11px '돋움'; vertical-align:middle; cursor:pointer; }
+		#ImageTool .MessageBox img { vertical-align:middle; }
+
+	#ImageList { height:274px; margin-left:160px; padding:5px; border:solid 1px #DCDCE4; overflow:auto; }
+	#ImageList.NotMenu { margin-left:0; }
+		#ImageList dl { width:106px; float:left; margin:0 5px 0 0; padding:2px 5px 5px 5px; border:solid 1px #FFF; background-color:#FFF; }
+		#ImageList dl.Focus { border-color:#99DEFD; background-color:#E3F3FD; cursor:move; }
+		#ImageList dl.Selected { border-color:#FCDAA7; }
+		#ImageList .PlaceHolder { border-style:dotted; border-width:1px; border-color:#C0C0C0; background-color:#F0F0F0; }
+			#ImageList dl p { height:18px; margin:0 0 3px 0; padding:0; text-align:right; }
+				#ImageList dl p img { vertical-align:middle; cursor:pointer; }
+			#ImageList dl dt { width:auto; margin:0; padding:0; }
+				#ImageList dl dt img { margin:0; padding:2px; border:solid 1px #CBD8E1; background-color:#FFF; vertical-align:top; display:block; clear:left; }
+			#ImageList dl dd { width:auto; height:21px; margin:5px 0 0 0; padding:0; font:11px '돋움'; text-align:center; cursor:pointer; }
+				#ImageList dl dd.Empty { color:#CCC; }
+				#ImageList dl dd input { padding:2px; font:11px '돋움'; border:solid 1px #CBD8E1; color:#000; }
+
+	#ImageUpload { margin:5px 0; border:solid 1px #DCDCE4; }
+		#ImageUpload form { width:99%; height:28px; margin:0 auto; padding:5px 0; font:12px '돋움'; border-bottom:dashed 1px #CCC; display:block; }
+			#ImageUpload form span { }
+			#ImageUpload form input { width:60%; padding:5px; font:12px '돋움'; vertical-align:middle; }
+			#ImageUpload form button { padding:5px 10px; font:12px '돋움'; border:solid 1px #B48181; background-color:#C29595; color:#FFF; vertical-align:middle; }
+		#ImageUpload p { height:27px; margin:0; padding:12px 0 0 10px; }
+			#ImageUpload p img { vertical-align:middle; }
+		#ImageUpload ul { margin:5px 0 0 0; padding:0 0 5px 0; list-style-type:none; }
+			#ImageUpload ul li { margin:0; padding:4px 0 4px 30px; background:url(../Images/bullet_green.gif) no-repeat 10px 2px; }

@@ -1,0 +1,25 @@
+/*¸ÞÀÎ*/
+body						{scrollbar-face-color: #EFEFEF;scrollbar-shadow-color: #7F7F7F;scrollbar-highlight-color: #ffffff;scrollbar-3dlight-color: #EFEFEF;scrollbar-darkshadow-color: #ffffff;scrollbar-track-color: #ffffff;scrollbar-arrow-color: #5d5d5d;} 
+font						{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: 4E4E4E;letter-spacing: -2px;}
+td							{font-family: "µ¸¿ò", "Arial";	font-size: 12px;color: 414042;}
+A:link					{font-size:9pt; font-weight:none; text-decoration:none; Color:#5D5B5B}
+A:visited				{font-size:9pt; font-weight:none; text-decoration:none; Color:#5D5B5B}
+A:hover					{font-size:9pt; font-weight:none; text-decoration:none; Color:#B38930}
+A:active				{font-size:9pt; font-weight:none; text-decoration:none; Color:#5D5B5B}
+.font_blue_bold		{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #1d80dc;font-weight: bold;letter-spacing: -1px;}
+.font_red_bold		{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #F35100;font-weight: bold;letter-spacing: -1px;}
+.font_11					{font-family: "µ¸¿ò", "Arial";font-size: 11px;color: 4E4E4E;}
+.font_yell_bold		{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #7E6C3B;font-weight: bold;letter-spacing: -1px;}
+
+
+/*¼­ºê*/
+.font_blue2_bold	{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #0C5192;font-weight: bold;letter-spacing: -1px;}
+.input 					{font-family: "µ¸¿ò", "Arial";font-size: 12px;font-weight: normal;color: #333333;border: 1px solid #7F9DB9;letter-spacing: -1em;background-color: #F4F4F4;}
+
+/*»ó¼¼ÆäÀÌÁö*/
+.font_orange			{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #FF7022;letter-spacing: -1px;}
+.font_black_bold	{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #414042;letter-spacing: -1px;font-weight: bold;}
+.font_sky_bold		{font-family: "µ¸¿ò", "Arial";font-size: 25px;color: #00B0B6;letter-spacing: -1px;font-weight: bold;font-style: normal;}
+
+/*»ó¼¼¸®½ºÆ®*/
+.font_blue			{font-family: "µ¸¿ò", "Arial";font-size: 12px;color: #0C5192;letter-spacing: -1px;}

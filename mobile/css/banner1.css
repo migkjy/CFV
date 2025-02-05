@@ -1,0 +1,15 @@
+
+
+html, body {margin:0;padding:0;}
+body img {max-width:100%;}
+
+#gWrap {background:#f0f0f0;padding:10px 0 0 0}
+#gWrap:after {content:""; display:block; float:none; clear:both;}
+
+#mainVisual {overflow:hidden;overflow:hidden;position:relative;}
+#mainVisual .mainimg {width:100%;}
+#mainVisual .swiper-container {overflow:hidden}
+#mainVisual .swiper-wrapper {}
+#mainVisual .swiper-pagination1 {bottom:13px;}
+#mainVisual .swiper-pagination-bullet {background: #fff;opacity: 0.5;}
+#mainVisual .swiper-pagination-bullet-active {opacity: 0.9;background: #000;}

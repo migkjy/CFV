@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body,input,textarea,select,button,table{font-family: "Nanum Gothic", sans-serif; font-size:12px;line-height:1.5em; color:#000;  letter-spacing:0em;}
+td {color : #000000; text-decoration:none;}
+td strong{font-weight:600;}
+
+
+.title_sujet {font-size: 14px; color: #000000;font-weight:600;}
+
+.mgb5 {margin-bottom:5px;}
+.mgb7 {margin-bottom:7px;}
+.mgb10 {margin-bottom:10px;}
+.mgb15 {margin-bottom:15px;}
+.mgb20 {margin-bottom:20px;}
+.mgb25 {margin-bottom:25px;}
+.mgb30 {margin-bottom:30px;}
+.mgb40 {margin-bottom:40px;}
+.mgb50 {margin-bottom:50px;}
+.mgb60 {margin-bottom:60px;}
+.mgb70 {margin-bottom:70px;}
+.mgb100 {margin-bottom:100px;}
+
+.pa_10 { padding:0 10px;}
+.pa_15 { padding:0 15px;}
+.pa_16 { padding:0 16px;}
+.pa_20 { padding:0 20px;}
+
+.pb_2 { padding:0px 0px 2px 0px;}
+.pb_5 { padding:5px 5px 5px 5px;}
+.pb_10 { padding:10px 10px 10px 10px;}
+.pb_20 { padding:5px 20px 5px 20px;}
+
+.pc_10 { padding:10px;}
+.pc_20 { padding:10px 20px;}
+
+.pr_10 { padding:0 10px 0 3px;}
+.pr_20 { padding:0 20px 0 5px;}

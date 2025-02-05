@@ -1,0 +1,444 @@
+<STYLE>
+IMG
+{
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-BOTTOM: 0px
+}
+.main1
+{
+    FONT-SIZE: 12px;
+    COLOR: #444444;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial" "MS PGothic";
+    LETTER-SPACING: -1pt
+}
+A.main1:link
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+A.main1:visited
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+A.main1:active
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+A.main1:hover
+{
+    COLOR: #0060ff;
+    TEXT-DECORATION: underline
+}
+.main2
+{
+    FONT-SIZE: 11px;
+    COLOR: #444444;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial";
+    LETTER-SPACING: -1pt;
+    TEXT-DECORATION: none
+}
+A.main2:link
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+A.main2:visited
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+A.main2:active
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+A.main2:hover
+{
+    COLOR: #444444;
+    TEXT-DECORATION: underline
+}
+.main3
+{
+    FONT-SIZE: 11px;
+    COLOR: #ff3c00;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial";
+    TEXT-DECORATION: none
+}
+A.main3:link
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+A.main3:visited
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+A.main3:active
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+A.main3:hover
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+.jp_main4
+{
+    FONT-SIZE: 11px;
+    COLOR: #1b1b1b;
+    LINE-HEIGHT: 110%;
+    FONT-FAMILY: "Arial";
+    TEXT-DECORATION: none
+}
+A.jp_main4:link
+{
+    COLOR: #1b1b1b;
+    TEXT-DECORATION: underline
+}
+A.jp_main4:visited
+{
+    COLOR: #1b1b1b;
+    TEXT-DECORATION: underline
+}
+A.jp_main4:active
+{
+    COLOR: #1b1b1b;
+    TEXT-DECORATION: underline
+}
+A.jp_main4:hover
+{
+    COLOR: #1b1b1b;
+    TEXT-DECORATION: underline
+}
+.main5
+{
+    FONT-SIZE: 12px;
+    COLOR: #ff3c00;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial";
+    TEXT-DECORATION: none
+}
+A.main5:link
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+A.main5:visited
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+A.main5:active
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+A.main5:hover
+{
+    COLOR: #ff3c00;
+    TEXT-DECORATION: underline
+}
+.japan
+{
+    FONT-SIZE: 12px;
+    COLOR: #5f5e5d;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.japan1:link
+{
+    COLOR: #5f5e5d;
+    TEXT-DECORATION: none
+}
+A.japan1:visited
+{
+    COLOR: #5f5e5d;
+    TEXT-DECORATION: none
+}
+A.japan1:active
+{
+    COLOR: #5f5e5d;
+    TEXT-DECORATION: none
+}
+A.japan1:hover
+{
+    COLOR: #0089e9;
+    TEXT-DECORATION: none
+}
+.japan_main
+{
+    FONT-SIZE: 12px;
+    COLOR: #323232;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.japan2:link
+{
+    COLOR: #323232;
+    TEXT-DECORATION: none
+}
+A.japan2:visited
+{
+    COLOR: #323232;
+    TEXT-DECORATION: none
+}
+A.japan2:active
+{
+    COLOR: #323232;
+    TEXT-DECORATION: none
+}
+A.japan2:hover
+{
+    COLOR: #0089e9;
+    TEXT-DECORATION: none
+}
+.eros_menu
+{
+    FONT-SIZE: 12px;
+    COLOR: #e0e0e0;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.eros1:link
+{
+    COLOR: #e0e0e0;
+    TEXT-DECORATION: none
+}
+A.eros1:visited
+{
+    COLOR: #e0e0e0;
+    TEXT-DECORATION: none
+}
+A.eros1:active
+{
+    COLOR: #e0e0e0;
+    TEXT-DECORATION: none
+}
+A.eros1:hover
+{
+    COLOR: #0cfff7;
+    TEXT-DECORATION: none
+}
+.eors_main
+{
+    FONT-SIZE: 12px;
+    COLOR: #4d4d4d;
+    LINE-HEIGHT: 120%;
+    FONT-FAMILY: "Arial"
+}
+A.eors2:link
+{
+    COLOR: #4d4d4d;
+    TEXT-DECORATION: none
+}
+A.eors2:visited
+{
+    COLOR: #4d4d4d;
+    TEXT-DECORATION: none
+}
+A.eors2:active
+{
+    COLOR: #4d4d4d;
+    TEXT-DECORATION: none
+}
+A.eors2:hover
+{
+    COLOR: #008682;
+    TEXT-DECORATION: none
+}
+.korea_menu
+{
+    FONT-SIZE: 12px;
+    COLOR: #535353;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.korea1:link
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.korea1:visited
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.korea1:active
+{
+    COLOR: #de7d1e;
+    TEXT-DECORATION: none
+}
+A.korea1:hover
+{
+    COLOR: #de7d1e;
+    TEXT-DECORATION: none
+}
+.korea_all
+{
+    FONT-SIZE: 12px;
+    COLOR: #535353;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.korea2:link
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.korea2:visited
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.korea2:hover
+{
+    COLOR: #535353;
+    TEXT-DECORATION: underline
+}
+.korea_sitcom
+{
+    FONT-SIZE: 12px;
+    COLOR: #535353;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.korea3:link
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.korea3:visited
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.korea3:hover
+{
+    COLOR: #e31f72;
+    TEXT-DECORATION: underline
+}
+.private_menu
+{
+    FONT-SIZE: 12px;
+    COLOR: #535353;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.lk-1:link
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.lk-1:visited
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.lk-1:active
+{
+    COLOR: #ef2e6b;
+    TEXT-DECORATION: none
+}
+A.lk-1:hover
+{
+    COLOR: #ef2e6b;
+    TEXT-DECORATION: none
+}
+.private_story
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.lk-2:link
+{
+    COLOR: #ffffff;
+    TEXT-DECORATION: none
+}
+A.lk-2:visited
+{
+    COLOR: #ffffff;
+    TEXT-DECORATION: none
+}
+A.lk-2:hover
+{
+    COLOR: #fff6a9;
+    TEXT-DECORATION: none
+}
+.private_best
+{
+    FONT-SIZE: 12px;
+    COLOR: #544c38;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.lk-3:link
+{
+    COLOR: #544c38;
+    TEXT-DECORATION: none
+}
+A.lk-3:visited
+{
+    COLOR: #544c38;
+    TEXT-DECORATION: none
+}
+A.lk-3:hover
+{
+    COLOR: #544c38;
+    TEXT-DECORATION: underline
+}
+.private_all
+{
+    FONT-SIZE: 12px;
+    COLOR: #535353;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.lk-4:link
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.lk-4:visited
+{
+    COLOR: #535353;
+    TEXT-DECORATION: none
+}
+A.lk-4:hover
+{
+    COLOR: #535353;
+    TEXT-DECORATION: underline
+}
+.private_new
+{
+    FONT-SIZE: 12px;
+    COLOR: #ff2d78;
+    LINE-HEIGHT: 130%;
+    FONT-FAMILY: "Arial"
+}
+A.lk-5:link
+{
+    COLOR: #ff2d78;
+    TEXT-DECORATION: none
+}
+A.lk-5:visited
+{
+    COLOR: #ff2d78;
+    TEXT-DECORATION: none
+}
+A.lk-5:hover
+{
+    COLOR: #ff2d78;
+    TEXT-DECORATION: underline
+}
+</STYLE>

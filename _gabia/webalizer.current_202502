@@ -1,0 +1,567 @@
+# Webalizer V2.20-01 Incremental Data - 02/02/2025 21:44:02
+2025 2 2 21 44 2
+195 102 65 29 11 35 1469606 91 39 0
+36 5 26 1 2
+92 25 519815 30 57 17
+103 77 949791 36 34 22
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+18 1 5496 18
+3 3 1146 2
+4 4 1434 0
+7 3 50922 5
+8 5 36240 3
+1 0 5260 0
+3 3 177875 3
+1 1 461 0
+6 3 7857 4
+5 4 17978 0
+18 3 90822 0
+20 6 110295 4
+2 1 5939 1
+6 2 3402 6
+27 24 396157 4
+4 3 2170 2
+2 1 1210 2
+23 21 314344 6
+3 2 1382 2
+8 7 220659 6
+3 2 1172 2
+21 3 11600 20
+1 0 5294 0
+1 0 491 1
+0
+0
+0
+102
+0
+0
+0
+0
+0
+0
+0
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/home/js/link.js
+0 2 0 2874 0 0
+/images/logo/sm_mobile.png
+0 1 4120847733625008686 17582 0 0
+/home/main.asp
+0 7 0 40072 0 0
+/
+0 32 0 19435 34 0
+/css/addon.css
+0 2 0 6050 0 0
+/css/main.css
+0 2 0 5325 0 0
+/home/js/jquery-1.9.1.js
+0 3 0 251953 0 0
+/css/popup.css
+0 3 0 6629 0 0
+/css/common.css
+0 2 0 6136 0 0
+/board/upload/tck/1019/20240723175225_m.jpg
+0 1 0 212003 0 0
+/home/js/jquery-ui.css
+0 2 0 16100 0 0
+/css/board.css
+0 3 0 11362 0 0
+/css/member.css
+0 3 0 12158 0 0
+/home/good_tck/ticket_view.asp
+0 1 2891360934418475379 42779 0 0
+/httpd.conf
+0 1 0 1403 0 0
+/home/js/jquery.bxslider.min.js
+0 2 0 15565 0 0
+/css/layout.css
+0 2 0 21507 0 0
+/_gabia/usage_202501.html
+0 1 0 108703 1 1
+/css/style.css
+0 2 0 830 0 0
+/home/js/jquery.lazyload.min.js
+0 2 0 3367 0 0
+/home/js/jquery-ui.js
+0 2 0 262710 0 0
+/home/2024/hotel_padma.asp
+0 1 0 11191 0 0
+/robots.txt
+0 17 0 6560 0 0
+/_gabia/usage_202502.html
+0 1 4049641174069223473 68426 1 0
+/images/logo/favicon-32x32.png
+0 1 0 1961 0 0
+/home/js/base-menu.js
+0 2 0 1052 0 0
+/home/bali_infor/infor_list.asp
+0 1 0 37918 0 0
+/images/logo/favicon-16x16.png
+0 1 0 1570 0 0
+/home/js/navDock_1.2.min.js
+0 2 0 2863 0 0
+# End Of Table - urls
+# -sites- (monthly)
+182.42.105.85
+0 1 0 491 1 1738453497
+/
+42.236.12.246
+0 1 1 734 1 1738501107
+/
+43.159.135.203
+0 2 1 1218 1 1738369933
+/
+217.160.202.182
+0 2 1 711 1 1738441507
+/
+20.42.10.187
+0 1 1 172 0 0
+-
+89.105.223.254
+0 3 2 1630 1 1738515885
+/
+20.42.10.191
+0 1 1 172 0 0
+-
+3.235.234.101
+0 2 0 974 1 1738415822
+/
+92.118.39.204
+0 3 1 6454 1 1738485002
+/
+192.36.109.115
+0 1 1 461 0 0
+-
+43.135.186.135
+0 2 1 1210 1 1738514839
+/
+80.85.246.74
+0 1 1 746 1 1738372909
+/
+80.85.247.231
+0 1 1 746 1 1738478636
+/
+52.149.22.87
+0 1 1 42779 0 0
+-
+49.164.193.6
+0 12 1 51265 1 1738495707
+/
+103.131.71.138
+0 2 2 6359 0 0
+-
+4.227.36.47
+0 1 1 228 1 1738460703
+/
+103.131.71.159
+0 1 1 461 0 0
+-
+121.134.213.34
+0 1 1 17582 0 0
+-
+49.7.227.204
+0 1 0 491 1 1738381581
+/
+112.32.79.218
+0 1 1 616 1 1738526347
+/
+170.39.218.109
+0 16 1 79459 0 0
+-
+141.94.145.70
+0 2 0 10436 1 1738531805
+-
+103.131.71.180
+0 1 1 5898 0 0
+-
+43.153.123.3
+0 2 1 1210 1 1738417325
+/
+103.131.71.193
+0 2 2 6556 1 1738469906
+/
+103.131.71.199
+0 1 1 461 0 0
+-
+192.36.109.82
+0 1 0 502 1 1738509716
+/
+192.36.109.89
+0 1 1 746 1 1738509718
+/
+113.141.91.58
+0 2 1 1218 1 1738525472
+/
+43.163.8.148
+0 2 1 1218 1 1738465502
+/
+185.147.125.24
+0 3 2 1630 1 1738532145
+/
+211.47.74.126
+0 2 2 177129 2 1738476339
+/_gabia/usage_202502.html
+83.142.52.74
+0 2 2 1195 1 1738436754
+/
+194.38.23.16
+0 1 0 5294 0 0
+-
+223.244.35.77
+0 1 0 483 1 1738399062
+/
+117.62.235.53
+0 2 1 1210 1 1738434974
+/
+42.236.12.196
+0 18 18 311563 1 1738518488
+/
+66.249.92.35
+0 1 0 5260 0 0
+-
+117.33.163.216
+0 2 1 1210 1 1738507092
+/
+20.171.207.64
+0 1 1 172 0 0
+-
+42.236.10.123
+0 2 2 5627 1 1738526349
+/
+103.131.71.200
+0 1 1 461 0 0
+-
+103.131.71.201
+0 1 1 461 0 0
+-
+103.131.71.202
+0 1 1 461 0 0
+-
+103.131.71.207
+0 1 1 461 0 0
+-
+103.131.71.209
+0 2 2 922 0 0
+-
+182.44.2.148
+0 2 1 1218 1 1738417314
+/
+188.166.250.131
+0 16 0 4278 1 1738447060
+/
+98.64.96.27
+0 1 1 37918 0 0
+-
+103.131.71.214
+0 1 1 461 0 0
+-
+20.26.44.172
+0 1 1 11191 0 0
+-
+103.131.71.225
+0 1 1 461 0 0
+-
+209.85.238.70
+0 1 0 5260 0 0
+-
+175.6.217.4
+0 2 1 1210 1 1738471433
+/
+167.94.145.98
+0 7 4 21112 1 1738407790
+/
+138.246.253.24
+0 1 1 340 0 0
+-
+68.183.183.148
+0 16 0 4278 1 1738369885
+-
+51.8.102.216
+0 1 1 172 0 0
+-
+14.63.168.247
+0 1 1 459 1 1738486520
+/
+34.105.90.22
+0 2 1 1151 1 1738431003
+/
+157.55.39.58
+0 1 1 212003 0 0
+-
+89.248.165.177
+0 2 0 10431 0 0
+-
+101.101.255.195
+0 24 22 394486 1 1738507055
+/
+143.198.73.164
+0 3 1 6434 1 1738379936
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+42.236.12.246
+0 1 1 734 1 1738501107
+/
+89.105.223.254
+0 3 2 1630 1 1738515885
+/
+20.42.10.191
+0 1 1 172 0 0
+-
+92.118.39.204
+0 3 1 6454 1 1738485002
+/
+192.36.109.115
+0 1 1 461 0 0
+-
+43.135.186.135
+0 2 1 1210 1 1738514839
+/
+80.85.247.231
+0 1 1 746 1 1738478636
+/
+52.149.22.87
+0 1 1 42779 0 0
+-
+49.164.193.6
+0 12 1 51265 1 1738495707
+/
+103.131.71.138
+0 2 2 6359 0 0
+-
+4.227.36.47
+0 1 1 228 1 1738460703
+/
+103.131.71.159
+0 1 1 461 0 0
+-
+121.134.213.34
+0 1 1 17582 0 0
+-
+112.32.79.218
+0 1 1 616 1 1738526347
+/
+141.94.145.70
+0 2 0 10436 1 1738531805
+-
+103.131.71.180
+0 1 1 5898 0 0
+-
+103.131.71.193
+0 2 2 6556 1 1738469906
+/
+192.36.109.82
+0 1 0 502 1 1738509716
+/
+192.36.109.89
+0 1 1 746 1 1738509718
+/
+113.141.91.58
+0 2 1 1218 1 1738525472
+/
+43.163.8.148
+0 2 1 1218 1 1738465502
+/
+185.147.125.24
+0 3 2 1630 1 1738532145
+/
+211.47.74.126
+0 1 1 68426 1 1738476339
+/_gabia/usage_202502.html
+42.236.12.196
+0 18 18 311563 1 1738518488
+/
+117.33.163.216
+0 2 1 1210 1 1738507092
+/
+20.171.207.64
+0 1 1 172 0 0
+-
+42.236.10.123
+0 2 2 5627 1 1738526349
+/
+103.131.71.200
+0 1 1 461 0 0
+-
+103.131.71.202
+0 1 1 461 0 0
+-
+103.131.71.209
+0 2 2 922 0 0
+-
+103.131.71.225
+0 1 1 461 0 0
+-
+209.85.238.70
+0 1 0 5260 0 0
+-
+175.6.217.4
+0 2 1 1210 1 1738471433
+/
+51.8.102.216
+0 1 1 172 0 0
+-
+14.63.168.247
+0 1 1 459 1 1738486520
+/
+101.101.255.195
+0 24 22 394486 1 1738507055
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://cfvacation.com/home/main.asp
+0 21
+- (Direct Request)
+0 134
+https://www.cfvacation.com/css/style.css
+0 7
+https://cfvacation.com/index.asp
+0 3
+https://cfvacation.com/
+0 3
+http://cfvacation.com
+0 5
+http://www.cfvacation.com
+0 5
+https://www.cfvacation.com/index.asp
+0 3
+http://cfvacation.com/
+0 3
+https://www.cfvacation.com/home/main.asp
+0 9
+https://www.cfvacation.com/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+0 2
+Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CCleaner/130.0.
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
+0 19
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+0 2
+Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatib
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+0 24
+Mozilla/5.0 (compatible; CensysInspect/1.1;  https://about.censys.io/)
+0 7
+Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+0 2
+Mozilla/5.0 (compatible; coccocbot-image/1.0;  http://help.coccoc.com/searchengine)
+0 8
+Mozilla/5.0 (compatible; coccocbot-web/1.0;  http://help.coccoc.com/searchengine)
+0 7
+SafariViewService/8619.2.8.10.9 CFNetwork/1568.200.51 Darwin/24.1.0
+0 10
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm) Chrome/116.0.1938
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+0 2
+python-requests/2.27.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 32
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+ALittle Client
+0 1
+Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.86
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/132.0.6834.78 Mobile/15
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2;  https://openai.com/gptbot)
+0 2
+Mozilla/5.0 (compatible)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
